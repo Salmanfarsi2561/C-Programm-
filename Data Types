@@ -1,1 +1,13 @@
+int = stores integer deta types
+float = stores decimal value 
+char = stores Charecter type data type 
+double =
+
+
+CONSTANTS:
+
+1. integer constants = 1,2,3,4 
+2. real constants = 1.0, 2.0, 3.0, -2.4 
+3. charecter constants = 'c', 'b', 'a', '&', '@', '*'
+
 
