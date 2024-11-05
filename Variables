@@ -1,5 +1,14 @@
+Comments:
+
 Variable is the name of a memory location which stores some data.
 Variables are case sensetive, like small v and Capital V are not same.
+variable can only be charecter or underscore, no comma or blank space, no symbol is approved. 
+it is recomended to name your variable in senseble name.
+
+Code below :: number, star, age, pi, are variables and int, float, char are variable type:
+
+CODE :
+
 
 #include <stdio.h>
 
